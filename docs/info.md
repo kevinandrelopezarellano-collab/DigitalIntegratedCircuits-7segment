@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Displays the name "Andre" in a seven segment display via a sequential logic circuit utilizing D-Flip Flops.
+Displays the name Andre in a seven segment display via a sequential logic circuit utilizing D-Flip Flops.
 
 ## How to test
 
-Connect the 7 segment display to the circuit and it should display "Andre" in each clock cycle.
+Connect the 7 segment display to the circuit and it should display Andre in each clock cycle.
 
 ## External hardware
 
